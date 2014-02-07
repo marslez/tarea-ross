@@ -1,0 +1,80 @@
+body{
+	background: #008080;
+	color: #332;
+	font-family: "fantasy";
+	font-size: 30 pk;
+	margin: 2;
+	text-align: center;
+}
+footer, header, section{
+	background: rgba(20,10,20,0.15);
+	border-radius: 0.5 em;
+	-webkit-border-radius:0.sem;
+	box-shadow: rgba(0,0,0,0.6) 0px 5px 10px;
+	color: #00FFFF;
+	margin: 1em auto;
+	padding: 1em;
+	width: 90%;
+
+}
+
+.header
+{
+    width:90%;
+    margin-top:5px;
+    margin-left:5%;
+    background:#ffffff;
+    border: 3px outset;
+    height: 200px;
+    float:left;
+}
+/*Menu */
+
+.top_menu ul
+{
+    list-style:none;
+    float:left;
+    border: 1px dashed;
+    padding: 2%;
+    width:95%;
+}
+
+.top_menu ul li
+
+{
+
+    float:right;
+    margin-right:20px;
+    margin-bottom:10px;
+    background: #FF8C00;
+    padding:5px;
+    border-radius: 15%;
+
+}
+
+.top_menu ul li a
+
+{
+
+    color: #FFFFFF;
+    text-decoration:none;
+}
+
+.top_menu ul li a:hover
+
+{
+    color: 0000FF;
+
+}
+}
+
+#agrupar{
+	width: 960px;
+	margin: 15px auto;
+	text-align: rigth;
+}
+
+#cabecera{
+	height:95 px;
+	display:block;
+
